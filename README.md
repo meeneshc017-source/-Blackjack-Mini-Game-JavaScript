@@ -39,3 +39,6 @@ This project helped me strengthen core JavaScript concepts including:
 - Updating the DOM dynamically
 
 A fun and beginner-friendly project to apply real-world JavaScript logic! 🚀
+
+## Demo 
+https://blackjackminiproject.netlify.app/
